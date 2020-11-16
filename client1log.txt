@@ -1,0 +1,13 @@
+DEBUG:root:/chat/client2
+DEBUG:root:/chat/client2
+DEBUG:root:/chat/client2
+DEBUG:root:line 2
+DEBUG:root:/chat/client2
+DEBUG:root:123
+DEBUG:root:/chat/client2
+DEBUG:root:hail
+DEBUG:root:
+DEBUG:root:/chat/client2
+DEBUG:root:hydra
+DEBUG:root:/chat/client2
+DEBUG:root:test round 2 phase 2
